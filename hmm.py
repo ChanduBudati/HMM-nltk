@@ -1,7 +1,5 @@
 '''
 Name: Chandu Budati
-CSCI 6350-001
-Project#2
 Due: 21, Feb, 2018
 '''
 
