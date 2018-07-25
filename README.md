@@ -10,7 +10,7 @@ Example: ca27
 • Training – To determine the tag transition probabilities and word/tag probabilities, process the files by
 sentences (using the corpus sents() method). Each training sentence should be tagged using the NLTK default
 tagger (accessed through the pos_tag() method). Tag bigrams should be extracted using the NLTK bigrams()
-method. Note that you will need to add a start sentence tag (<s>). At the end of training, the transition
+method. Note that you will need to add a start sentence tag. At the end of training, the transition
 probabilities and observation likelihood matrices should be in place.
 • Testing – Tag each test sentence using your HMM tagger.
 • Evaluation – Evaluate the accuracy of your tagger by comparing its tags to those of the default tagger. Note that
